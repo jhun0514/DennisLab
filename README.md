@@ -6,7 +6,7 @@ How to check?
 
 bash code:
 
-  python3 --version
+     python3 --version
 
 If this command does not work, you have to download python3 at "https://www.python.org/downloads/"
 
@@ -15,11 +15,11 @@ How to download?
 
 bash code:
 
-  pip3 install numpy
+     pip3 install numpy
   
-  pip3 install scipy
+     pip3 install scipy
   
-  pip3 install -U scikit-learn
+     pip3 install -U scikit-learn
   
   
 You must install numpy and scipy before you install scikit learn if you do not have those.
@@ -27,7 +27,7 @@ You must install numpy and scipy before you install scikit learn if you do not h
 ## Run the program
 bash code:
 
-  python3 PipelineTest.py
+     python3 PipelineTest.py
   
 Thank you.
 
