@@ -1,0 +1,8 @@
+If you do not have NumPy, spicy, and scikit learn on your computer:
+Pip3 install NumPy
+Pip3 install spicy
+pip3 install -U scikit-learn
+Python3 PipelineTest.py
+
+Else if you have those:
+Python3 PipelineTest.py
