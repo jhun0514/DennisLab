@@ -1,6 +1,6 @@
 If you do not have NumPy, spicy, and scikit learn on your computer:
-Pip3 install NumPy
-Pip3 install spicy
+Pip3 install numpy
+Pip3 install scipy
 pip3 install -U scikit-learn
 Python3 PipelineTest.py
 
