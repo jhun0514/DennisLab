@@ -1,5 +1,5 @@
-# Pipeline code for DennisLab
-This repository is for Dennis lab application. There are a pipeline code with python and a bash code instruction.
+# Pipeline code 
+This repository is for Dennis lab. There are a pipeline code with python and a bash code instruction.
 
 ## This pipeline code is written in python3, so check your python version before you run this program.
 How to check?
